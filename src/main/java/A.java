@@ -5,17 +5,14 @@ public class A {
 		System.out.println("Hi A1");
 		System.out.println("Hi A2 ");
 		System.out.println("Hi A3 ");
+		System.out.println("Hello AAA , How are you?");
+		System.out.println("Hey.................");
+		System.out.println("Happy Happy HAppy");
+
 		System.out.println("Hello A7");
 		System.out.println("Hello A3 ");
-		System.out.println("Hello A9 ");
-		System.out.println("Help A9 ");
-		System.out.println("without A19 ");
-		System.out.println("Hi A91 ");
-		System.out.println("Hello A93 ");
-		System.out.println("Hi A97 ");
+    	System.out.println("Hi smita ");
 		
-		
-		
-		
+	  
 	}
 }
