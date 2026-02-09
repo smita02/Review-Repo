@@ -8,5 +8,11 @@ public class A {
 		System.out.println("Hello AAA , How are you?");
 		System.out.println("Hey.................");
 		System.out.println("Happy Happy HAppy");
+
+		System.out.println("Hello A7");
+		System.out.println("Hello A3 ");
+    	System.out.println("Hi smita ");
+		
+	  
 	}
 }
